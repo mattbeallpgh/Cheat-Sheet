@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(209, 195, 177);
+}
+
+header {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: purple;
+}
+
+.cheatSheet {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px double purple;
+}
+
+thead {
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    background-color: pink;
+    }
+
+.tags {
+    font-family: monospace;
+    background-color: azure
+}
+
